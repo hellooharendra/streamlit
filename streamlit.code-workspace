@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Mask_Detector/facemaskdetectionproject-main/image"
+		}
+	],
+	"settings": {}
+}
